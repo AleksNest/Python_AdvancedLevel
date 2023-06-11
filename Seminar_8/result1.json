@@ -1,0 +1,26 @@
+{
+    "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Python_advanced": {
+        "object_type": "Directory",
+        "object_name": "Seminar_8",
+        "object_size": 106374,
+        "parant_directory": "Python_advanced"
+    },
+    "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Python_advanced\\Seminar_8\\": {
+        "object_type": "File",
+        "object_name": "__init__.py",
+        "object_size": 0,
+        "parant_directory": ""
+    },
+    "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Python_advanced\\Seminar_8\\File_manager": {
+        "object_type": "Directory",
+        "object_name": "__pycache__",
+        "object_size": 18377,
+        "parant_directory": "File_manager"
+    },
+    "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Python_advanced\\Seminar_8\\File_manager\\__pycache__": {
+        "object_type": "File",
+        "object_name": "__init__.cpython-311.pyc",
+        "object_size": 237,
+        "parant_directory": "__pycache__"
+    }
+}

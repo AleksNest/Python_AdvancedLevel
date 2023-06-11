@@ -1,0 +1,158 @@
+{
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Python_advanced\\Seminar_8": {
+    "File_manager": {
+      "object_size": 31305,
+      "object_type": "directory",
+      "parant_directory": "Python_advanced"
+    },
+    "data.csv": {
+      "object_size": 41,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "data.json": {
+      "object_size": 141,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "data.txt": {
+      "object_size": 120,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "data1.json": {
+      "object_size": 34,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "data2.json": {
+      "object_size": 218,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "main.py": {
+      "object_size": 1892,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result.pickle": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result1.csv": {
+      "object_size": 651,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result1.json": {
+      "object_size": 1357,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result1.pickle": {
+      "object_size": 710,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "task_homework.py": {
+      "object_size": 4894,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Python_advanced\\Seminar_8\\File_manager": {
+    "__pycache__": {
+      "object_size": 18488,
+      "object_type": "directory",
+      "parant_directory": "Seminar_8"
+    },
+    "create_file_json.py": {
+      "object_size": 4636,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "create_file_txt.py": {
+      "object_size": 562,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "csv_to_json.py": {
+      "object_size": 1717,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "directory_reference.py": {
+      "object_size": 3488,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "json_to_csv.py": {
+      "object_size": 1482,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "txt_to_json.py": {
+      "object_size": 932,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    }
+  },
+  "C:\\Users\\\u0410\u043b\u0435\u043a\u0441\u0435\u0439\\Desktop\\GreekBrains\\\u0414\u041e\u041c\u0410\u0428\u041a\u0410\\Python_advanced\\Python_advanced\\Seminar_8\\File_manager\\__pycache__": {
+    "create_file_json.cpython-311.pyc": {
+      "object_size": 4324,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "create_file_txt.cpython-311.pyc": {
+      "object_size": 1468,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "csv_to_json.cpython-311.pyc": {
+      "object_size": 3008,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "directory_reference.cpython-311.pyc": {
+      "object_size": 5430,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "json_to_csv.cpython-311.pyc": {
+      "object_size": 2420,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "txt_to_json.cpython-311.pyc": {
+      "object_size": 1601,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-311.pyc": {
+      "object_size": 237,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  }
+}
