@@ -72,7 +72,7 @@ def count_size(count_path: str, dir_size: int = 0) -> float:
 def dir_walker(aim_path: str, total_dct: dict = None) -> dict[str, dict[str]]:
     if total_dct is None:
         total_dct = {}
-        basic_path = os.path.split(os.path.abspath(aim_path))                                           #('C:\\Users\\Алексей\\Desktop\\GreekBrains\\СЕМИНАРЫ\\Python_advanced', 'Seminar8')
+        basic_path = os.path.split(os.path.abspath(aim_path))                                           #('C:\\Users\\Алексей\\Desktop\\GreekBrains\\СЕМИНАРЫ\\Python_advanced', 'Seminar_8')
 
         dct_formatter1(total_dct, os.path.join(*basic_path[:-1]), basic_path[-1], 'D')
 
@@ -100,7 +100,7 @@ def dir_walker(aim_path: str, total_dct: dict = None) -> dict[str, dict[str]]:
 def main():
 
     tst_path = str(Path.cwd()) + '\\'
-    #tst_path = '\\Users\\Алексей\\Desktop\\GreekBrains\\СЕМИНАРЫ\\Python_advanced\\Seminar8\\'
+    #tst_path = '\\Users\\Алексей\\Desktop\\GreekBrains\\СЕМИНАРЫ\\Python_advanced\\Seminar_8\\'
 
     result = dir_walker(tst_path)
     jsn_writer(result, os.getcwd(), 'result1')
