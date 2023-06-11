@@ -1,0 +1,12 @@
+{
+    "arguments": [
+        5,
+        10
+    ],
+    "result": 15
+}{
+    "arguments": [],
+    "y": 3,
+    "x": 20,
+    "result": 23
+}
